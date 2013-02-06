@@ -3,10 +3,10 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.apache.thrift</groupId>
-    <artifactId>libthrift</artifactId>
-    <version>0.0.0</version>
+    <artifactId>libthrift8</artifactId>
+    <version>0.8.0</version>
     <packaging>jar</packaging>
-    <name>libthrift</name>
+    <name>libthrift8</name>
     <description>Thrift is a software framework for scalable cross-language services development.</description>
     <url>http://thrift.apache.org</url>
     <licenses>
